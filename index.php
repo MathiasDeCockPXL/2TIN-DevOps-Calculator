@@ -36,6 +36,6 @@
                 echo "<h2>The result of adding $n1 and $n2 is $result";
             }
         ?>
-        <script src="assets/js/bootstrap.min.js" ></sccript>
+        <script src="assets/js/bootstrap.min.js" ></script>
     </body>
 </html>
