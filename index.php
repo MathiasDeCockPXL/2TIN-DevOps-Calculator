@@ -2,8 +2,8 @@
 <html>
     <head>
      <title>2TIN Devops - Calculator</title>
-     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
      <link rel="stylesheet" href="assets/css/style.css">
+     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     </head>
     <body>
     <h1>2TIN DevOps - Calculator</h1><hr/>
